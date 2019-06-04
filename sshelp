@@ -1,0 +1,9 @@
+server.sh -v|v|version
+server.sh [-h|h|help]
+server.sh -i|i|install
+server.sh -uninstall
+server.sh -ssr
+server.sh -sslink
+server.sh -bbr
+
+e.g. bash server.sh -i password port
