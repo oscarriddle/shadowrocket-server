@@ -18,7 +18,7 @@ kernel_ubuntu_url="http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.10.2/linux-i
 kernel_ubuntu_file="linux-image-4.10.2-041002-generic_4.10.2-041002.201703120131_amd64.deb"
 
 usage () {
-        cat $fly_dir/sshelp
+        cat $fly_dir/help
 }
 
 DIR=`pwd`
